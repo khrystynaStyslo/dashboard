@@ -1,0 +1,28 @@
+# Build outputs
+build/
+dist/
+coverage/
+
+# Dependencies
+node_modules/
+
+# Generated files
+*.min.js
+*.bundle.js
+
+# Config files
+.eslintrc.js
+vite.config.ts
+craco.config.js
+
+# Test files
+**/*.test.ts
+**/*.test.tsx
+**/*.spec.ts
+**/*.spec.tsx
+
+# Generated types
+src/react-app-env.d.ts
+
+# Public assets
+public/

@@ -1,0 +1,28 @@
+.toolbar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 16px;
+  background-color: #f9fafb;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.toolbar-title {
+  font-size: 18px;
+  font-weight: 600;
+  color: #111827;
+  margin-right: 16px;
+}
+
+.toolbar-buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.toolbar-message {
+  font-size: 14px;
+  color: #6b7280;
+  margin-left: 16px;
+  display: flex;
+  align-items: center;
+}
